@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - db_dorman@localhost" uuid="b9d30e56-304f-498e-ae7b-74f0d200b349">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>db_dorman.*</schema-pattern>
+      <default-schemas>db_dorman.*</default-schemas>
+    </data-source>
+  </component>
+</project>
